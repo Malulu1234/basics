@@ -5,6 +5,8 @@ function App() {
     <div className="App">
       <h1>Hello World</h1>
       <p>we are learning react. added commited</p>
+      <p>we are learning react. added commited</p>
+
     </div>
   );
 }
